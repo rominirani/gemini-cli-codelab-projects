@@ -1,0 +1,1 @@
+Find out if there is a RSS feed for Google Cloud Release notes. If yes, then retrieve the contents and summarize the key stories in bullet point.
