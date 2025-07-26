@@ -1,0 +1,1 @@
+Google Cloud provides a Service Health JSON feed at https://status.cloud.google.com/incidents.json. Check if there are any current/recent incidents that have happened and summarize them. 
